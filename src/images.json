@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "src": "./assets/images/blake.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 1,
+        "src": "./assets/images/brow.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 2,
+        "src": "./assets/images/dirk.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 3,
+        "src": "./assets/images/durant.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 4,
+        "src": "./assets/images/granger.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 5,
+        "src": "./assets/images/harden.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 6,
+        "src": "./assets/images/kobe.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 7,
+        "src": "./assets/images/melo.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 8,
+        "src": "./assets/images/millsap.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 9,
+        "src": "./assets/images/steph.jpeg",
+        "clicked": false
+    },
+
+    {
+        "id": 10,
+        "src": "./assets/images/wade.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 11,
+        "src": "./assets/images/zbo.jpg",
+        "clicked": false
+    }
+]
